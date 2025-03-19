@@ -18,7 +18,6 @@ I'm always eager to learn and embrace new challenges in the tech world🚀...<br
 
 <p align="left>
 
-![Iambeastofhell github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Iambeastofhell)
 
 ![Iambeastofhell github-trophies](https://stats.dooboo.io/api/github-trophies?login=Iambeastofhell)
 
@@ -38,9 +37,6 @@ I'm always eager to learn and embrace new challenges in the tech world🚀...<br
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Iambeastofhell&theme=highcontrast&border_radius=30" alt="GitHub Streak" />
 </p>
 
-<p align="left"> 
-<a href="https://leetcode.com/112301037/"><img width="48%" src="https://leetcode.card.workers.dev/112301037?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-</p> 
 
 
 
